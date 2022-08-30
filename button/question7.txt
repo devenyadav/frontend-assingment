@@ -1,0 +1,11 @@
+7. Assume that there are three buttons in a webpage with ids: button0, button1, button2.
+What will be the output of the following function for each button if the buttons are
+clicked.
+function hookupevents() {
+for (var i = 0; i < 3; i++) {
+document.getElementById("button" + i)
+.addEventListener("click", function() {
+alert(i);
+});
+}
+}

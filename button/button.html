@@ -1,0 +1,28 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <button onclick=" hookupevents()" id="button0">button0 result</button>
+    <button onclick=" hookupevents()" id="button1">button1 result</button>
+    <button onclick=" hookupevents()" id="button2">button2 result</button>
+
+    <script>
+        function hookupevents() {
+            for (var i = 0; i < 3; i++) {
+            document.getElementById("button" + i)
+            .addEventListener("click", function() {
+            alert(i);
+            });
+            }
+            }
+    </script> 
+   
+    </script>
+</body>
+</html>
+
+<!-- the result of each button is 3 -->
