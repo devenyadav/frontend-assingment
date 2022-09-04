@@ -1,0 +1,4 @@
+1. Using any modern UI library, framework like React, Vue, etc. of your choice create a
+basic reusable component that displays Name, Email, Phone Number in a list view. The
+values for these fields (Name, Email, Phone Number) should be passed as a prop to the
+component.
