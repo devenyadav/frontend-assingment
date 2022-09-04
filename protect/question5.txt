@@ -1,0 +1,5 @@
+5. Show an example of how you can protect a route from the client side. For example I
+have a website named mywebsite.com and it has a special webpage under /special route.
+I want this webpage to be only shown to authorized users. How can I achieve this using
+guarded routes? Hint: You can use navigation guards in Vue.js and route guards in
+Angular or React.js

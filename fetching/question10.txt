@@ -1,0 +1,4 @@
+10. Create a simple webpage that shows the data fetched from an API response. You can
+use this dummy API endpoint (https://jsonplaceholder.typicode.com/users) to fetch the
+list of users and only show the name and email in a list view in your webpage. Please
+feel free to use any HTTP client of your choice. Some popular ones are axios, fetch, etc.

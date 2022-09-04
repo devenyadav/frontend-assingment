@@ -1,0 +1,2 @@
+4. Create a simple portfolio website of yourself as a SPA (Single Page Application) using
+any modern UI library, framework of your choice.

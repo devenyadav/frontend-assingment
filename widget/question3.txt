@@ -1,0 +1,4 @@
+3. Shown below is a dashboard having multiple widgets in it with varying height. Make
+the dashboard widgets responsive in such a way that for screen width larger than
+1000px there will be 3 columns and for width less than 1000px the widgets will be
+arranged in 2 columns as presented in the figure.

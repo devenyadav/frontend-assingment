@@ -1,0 +1,12 @@
+8. Consider the following dataset representing sales of Sanitizer produced by a company
+in the last 7 days. Show this dataset with the help of any visualization library in JS of
+your choice.
+Date Sales Count
+2021-07-11 53
+2021-07-12 42
+2021-07-13 88
+2021-07-14 14
+
+2021-07-15 77
+2021-07-16 68
+2021-07-17 43

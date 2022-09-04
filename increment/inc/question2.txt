@@ -1,0 +1,7 @@
+2. Refer to the figure below: Create a parent component showing number 10 in the
+display. Create a child component maybe a button, which is inside this parent
+component and when user clicks on the button the number will be increased by 5 so
+new number 15 will be displayed in the parent component. You can extend this
+functionality on answer of question #1. Please use any library, framework you wish to
+solve this problem.
+
